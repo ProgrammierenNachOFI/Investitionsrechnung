@@ -9,4 +9,4 @@ Nettobarwert aufweist. Beim Vergleich von mehreren Varianten ist jene zu
 wählen, die den höchsten Nettobarwert aufweist.
 
 Um das zu vertiefen finden Sie hier ein 
-[Arbeitsblatt](npv_sus.ipynb).
+[Arbeitsblatt](https://notebooks.gesis.org/binder/jupyter/user/programmierenna-titionsrechnung-gpnrg8g4/lab/tree/docs/npv/npv_sus.ipynb).
