@@ -8,4 +8,5 @@ Eine Investition lohnt sich grundsätzlich dann, wenn sie einen positiven
 Nettobarwert aufweist. Beim Vergleich von mehreren Varianten ist jene zu
 wählen, die den höchsten Nettobarwert aufweist.
 
-Um das zu vertiefen finden Sie hier ein Arbeitsblatt.
+Um das zu vertiefen finden Sie hier ein 
+[Arbeitsblatt](npv_sus.ipynb).
