@@ -12,5 +12,5 @@ Beim Vergleich mehrerer Varianten ist jener der Vorzug zu geben, die für
 $i$ den höchsten Wert aufweist.
 
 Wie dafür vorzugehen ist, wird in 
-diesem Arbeitsblatt
+[diesem Arbeitsblatt](https://nbviewer.org/github/ProgrammierenNachOFI/Investitionsrechnung/blob/main/docs/irr/irr_sus.ipynb)
 erläutert.
