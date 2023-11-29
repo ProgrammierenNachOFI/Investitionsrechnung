@@ -6,6 +6,9 @@ gegenübergestellt. Die Formel für die Berechnung lautet:
 
 $$NPV = \sum_{t=0}^{n} \frac{cf_t}{(1+i)^t} \; -I$$
 
+Wobei $n$ die Nutzungsdauer, $t$ das aktuelle Jahr und $i$ dem
+kalkulatorischen Zins als Dezimalzahl entspricht.
+
 Eine Investition lohnt sich grundsätzlich dann, wenn sie einen positiven
 Nettobarwert aufweist. Beim Vergleich von mehreren Varianten ist jene zu
 wählen, die den höchsten Nettobarwert aufweist.
