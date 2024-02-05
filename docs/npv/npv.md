@@ -14,4 +14,4 @@ Nettobarwert aufweist. Beim Vergleich von mehreren Varianten ist jene zu
 wählen, die den höchsten Nettobarwert aufweist.
 
 Um das zu vertiefen finden Sie hier ein 
-[Arbeitsblatt](https://nbviewer.org/github/ProgrammierenNachOFI/Investitionsrechnung/blob/main/docs/npv/npv_sus.ipynb).
+[Arbeitsblatt](https://colab.research.google.com/github/ProgrammierenNachOFI/Investitionsrechnung/blob/main/docs/npv/npv_sus.ipynb).
