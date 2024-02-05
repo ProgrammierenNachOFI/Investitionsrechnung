@@ -15,3 +15,4 @@ wählen, die den höchsten Nettobarwert aufweist.
 
 Um das zu vertiefen finden Sie hier ein 
 [Arbeitsblatt](https://colab.research.google.com/github/ProgrammierenNachOFI/Investitionsrechnung/blob/main/docs/npv/npv_sus.ipynb).
+Eine Musterlösung wird im entsprechenden GitHub Repository zur Verfügung gestellt.
