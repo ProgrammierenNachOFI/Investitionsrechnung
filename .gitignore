@@ -1,3 +1,4 @@
 *.vscode
 *.dia~
-*checkpoint.ipynb
+
+*/.ipynb_checkpoints/*
