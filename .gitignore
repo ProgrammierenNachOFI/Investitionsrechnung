@@ -1,4 +1,11 @@
-*.vscode
-*.dia~
+*
 
-*/.ipynb_checkpoints/*
+!.gitignore
+!*.md
+!*.ipynb
+!*.dia
+!*.svg
+
+!*/
+
+
