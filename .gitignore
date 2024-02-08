@@ -1,11 +1,13 @@
 *
 
+!*/
+
 !.gitignore
 !*.md
 !*.ipynb
+*-checkpoint.ipynb
 !*.dia
 !*.svg
 
-!*/
 
 
