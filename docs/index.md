@@ -7,3 +7,7 @@ Aktuell gibt es ein Notebook zum
 [Nettobarwert](npv/npv.md)
 und eines zum
 [internen Zinssatz](irr/irr.md).
+
+In Ergänzung zu den dynamischen Investitionsrechnungen findet sich hier
+noch ein Jupyter Notebook zur Berechnung des
+[Break Even Points](break_even/break_even_muloe.ipynb)
