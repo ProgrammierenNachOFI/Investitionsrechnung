@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="9cm" height="8cm" viewBox="164 158 167 150" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="165" y="159" width="165.75" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="165" y="159" width="165.75" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="247.875" y="178">BreakEvenObjekt</text>
+    <rect style="fill: #ffffff" x="165" y="187" width="165.75" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="165" y="187" width="165.75" height="68"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="167.5" y="201">+titel</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="167.5" y="217">+kostentreiber</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="167.5" y="233">+variable_kosten</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="167.5" y="249">+fixe_kosten</text>
+    <rect style="fill: #ffffff" x="165" y="255" width="165.75" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="165" y="255" width="165.75" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="167.5" y="269">+break_even_point()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="167.5" y="285">+plot_vergleich()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="167.5" y="301">+plot_kosten()</text>
+  </g>
+</svg>
