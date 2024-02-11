@@ -15,6 +15,6 @@
     <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="165" y="255" width="165.75" height="52"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="167.5" y="269">+break_even_point()</text>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="167.5" y="285">+plot_vergleich()</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="167.5" y="301">+polt_kosten()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="167.5" y="301">+plot_kosten()</text>
   </g>
 </svg>
